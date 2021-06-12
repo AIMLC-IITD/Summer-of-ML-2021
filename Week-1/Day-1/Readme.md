@@ -8,6 +8,6 @@ In the first part, we plan to learn the fundamental uses of Eigen values, matrix
 In the second part, we intend to go over some basic statistical distributions and a very simple yet useful technique called Naive Bayes Classification.
 
 
-To follow the workshop, download the notebook and run, or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AIMLC-IITD/Summer-of-ML-2021/blob/Week-1/Day-1/main.ipynb)
+To follow the workshop, download the notebook and run, or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AIMLC-IITD/Summer-of-ML-2021/blob/main/Week-1/Day-1/main.ipynb)
 
 For more follow-up reading materials, refer to our [resources](./Resources.md).
