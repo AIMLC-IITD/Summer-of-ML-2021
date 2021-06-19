@@ -7,11 +7,11 @@ In this assignment we're going to use information like a person's age, sex, BMI,
 
 We will create a model with the following steps:
 
-*Download and explore the dataset
-*Prepare the dataset for training
-*Create a linear regression model
-*Train the model to fit the data
-*Make predictions using the trained model
+.Download and explore the dataset
+.Prepare the dataset for training
+.Create a linear regression model
+.Train the model to fit the data
+.Make predictions using the trained model
 
 
 This assignment builds upon the concepts from the first 2 lessons. It will help to review these Jupyter notebooks:
