@@ -13,4 +13,4 @@ Topics Covered:
 
 To follow the codes used in the workshop, download this [notebook](https://github.com/CosmoLuminous/summer-of-ml/blob/master/LinearRegression.ipynb) and run, or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CosmoLuminous/summer-of-ml/blob/master/LinearRegression.ipynb)
 
-For more follow-up reading materials, refer to the [repository](https://github.com/CosmoLuminous/summer-of-ml) created by the instructor. We will collate some more [resources](./Resources.md) after the session.
+For more follow-up reading materials, refer to the [repository](https://github.com/CosmoLuminous/summer-of-ml) created by the instructor.
