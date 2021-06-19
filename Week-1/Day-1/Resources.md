@@ -12,6 +12,7 @@
 4. PCA
 	1. [Article](https://jakevdp.github.io/PythonDataScienceHandbook/05.09-principal-component-analysis.html)
 	2. [PCA with Linear Algebra by Jeff Jaregui](https://www.coris.uniroma1.it/sites/default/files/PCA.pdf)
+	3. [PCA tutorial using Scikit-Learn](https://towardsdatascience.com/principal-component-analysis-pca-with-scikit-learn-1e84a0c731b0)
 5. Gaussian distribution
 	1. Pattern Recognition & Machine Learning by C. Bishop, Chap 2
 	2. Standord CS229 Multivariate Gaussian [Part 1](http://cs229.stanford.edu/section/gaussians.pdf) & [Part 2](http://cs229.stanford.edu/section/more_on_gaussians.pdf)
