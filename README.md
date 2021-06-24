@@ -17,8 +17,14 @@ We will start with the basic mathematics used in ML and intorduce some ML method
 
 ---
 
-## Workshops
+## Events
 
 - [Week 1](./Week-1) Mathematics and Basic Methods in ML
 	- [Day 1](./Week-1/Day-1) Linear Algebra & Probability-Statistics
 	- [Day 2](./Week-1/Day-2) Linear Regression and Multi-Variable Calculus
+
+- [Week 2](./Week-2) Deep Learning & its Applications
+	- [Day 3](./Week-2/Day-3) Deep Learning I
+	- [Day 4](./Week-2/Day-4) Deep Learning II
+
+- [Hackathon](./Hackathon)
