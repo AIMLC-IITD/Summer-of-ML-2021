@@ -1,7 +1,7 @@
 # Hack the Summer
 
-<a href="https://aimlc-iitd-soml-2021.devpost.com"><img src="https://img.shields.io/badge/Register%20Now-brightgreen.svg?style=plastic"/></a>
-<a href="https://drive.google.com/file/d/1rAYZBd3z5FA9IjxiCPa-PbAGuyWChwdX/view?usp=sharing"><img src="https://img.shields.io/badge/Download%20Dataset-blue.svg?style=plastic"/></a>
+<a href="https://aimlc-iitd-soml-2021.devpost.com"><img src="https://img.shields.io/badge/Register%20Now-brightgreen.svg?style=for-the-badge"/></a>
+<a href="https://drive.google.com/file/d/1rAYZBd3z5FA9IjxiCPa-PbAGuyWChwdX/view?usp=sharing"><img src="https://img.shields.io/badge/Download%20Dataset-blue.svg?style=for-the-badge"/></a>
 
 ## Problem Statement
 

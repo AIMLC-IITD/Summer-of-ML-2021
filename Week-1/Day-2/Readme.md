@@ -1,5 +1,7 @@
 # Workshop 2: Linear Regression and Multi-Variable Calculus
 
+<a href="https://www.youtube.com/watch?v=Xec_ZGAQJPE&list=PLoBovXf4PWTP3Mau7Y8-zQpPJG16g5HxZ&index=2"><img src="https://img.shields.io/badge/-Watch%20Now-blue.svg?style=for-the-badge&logo=youtube"/></a>
+
 ### Instructor: [Aman Bhardwaj](https://www.linkedin.com/in/aman-bhardwaj-iitd/)
 
 Topics Covered:
