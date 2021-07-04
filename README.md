@@ -15,6 +15,8 @@ The workshop is a month-long event with 5 major workshops across 3 weeks and a h
 
 We will start with the basic mathematics used in ML and intorduce some ML methods like Naive Bayes and Logistic Regression, that are built primarily on these mathematics. We will gradually move on to Deep Learning in the second week, with simple applications and a hands-on introduction to PyTorch. Finally, we will  explore some important methods in Deep Learning like CNNs and RNNs. To test your understanding of the concepts you learned in the workshops, we will have a final 1-week hackathon. 
 
+To finish off with the series, we will take you through some more methods that are commonly used in Machine Learning. We will be covering topics ranging from clustering algorithms like K-means and GDA to expectation maximization techniques.
+
 ---
 
 ## Events
@@ -28,3 +30,6 @@ We will start with the basic mathematics used in ML and intorduce some ML method
 	- [Day 4](./Week-2/Day-4) Deep Learning II
 
 - [Hackathon](./Hackathon)
+
+- [Week 4](./Week-4) More Methods in Machine Learning
+	- [Day 5](./Week-4/Day-5) More Methods in Machine Learning
