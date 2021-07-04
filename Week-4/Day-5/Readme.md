@@ -12,4 +12,6 @@ Topics that will be covered:
 - K-Means  | K-means clustering
 - EM       | Expectation-Maximization 
 
+You can follow the code used in the workshop through this [notebook](./workshop5.ipynb) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AIMLC-IITD/Summer-of-ML-2021/blob/main/Week-4/Day-5/workshop5.ipynb)
+
 The instructor's slides can be found [here](./talk.pdf). For more follow-up reading materials, refer to our [resources](./Resources.md).
